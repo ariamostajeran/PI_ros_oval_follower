@@ -1,0 +1,8 @@
+prefix=/home/aria/catkin_ws1/devel
+
+Name: turtlebot3_msgs
+Description: Description of turtlebot3_msgs
+Version: 1.0.1
+Cflags: -I/home/aria/catkin_ws1/devel/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs message_runtime

@@ -1,0 +1,8 @@
+prefix=/home/aria/catkin_ws1/install
+
+Name: random_control
+Description: Description of random_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
